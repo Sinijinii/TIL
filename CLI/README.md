@@ -67,7 +67,7 @@ https://www.markdownguide.org/basic-syntax/
     - 링크: "[구글] (~링크)"
     - 이미지: "![이미지] (~링크)" > 사이즈를 줄이는건 html markdown에서만 가능
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1848a85f-9836-46e1-8795-3eff9f43f933/8eaeb8ea-b069-4495-bd8a-d365578b568d/Untitled.png)
+    ![img](img2.png)
     
 
 ### 글씨체
