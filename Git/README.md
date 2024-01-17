@@ -59,7 +59,7 @@ https://git-scm.com/book/ko/v2
 - 버전 이력과 파일들이 영구적으로 저장되는 영역
 - 모든 버전과 변경 이력이 기록
 
-![이미지](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F1848a85f-9836-46e1-8795-3eff9f43f933%2Fd20718b9-fcc9-48ae-9059-320d4a1d4afa%2FUntitled.png?table=block&id=bdcac465-a550-4208-9eff-23a396e5daca&spaceId=1848a85f-9836-46e1-8795-3eff9f43f933&width=2000&userId=c47d7f68-ac31-480d-b4eb-cf60fb57b9e1&cache=v2)
+![git](git_img.png)
 
 Staging Area에 추가한 파일들을Commit을 한다면 최종적으로 저장소(Repository)로  저장
 
