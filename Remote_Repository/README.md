@@ -76,7 +76,7 @@ git remote remove origin
     git clone origin
     ```
     
-    !https://blog.kakaocdn.net/dn/xHf0m/btr2ufCgtLM/yWrjKBaKCJQPP3bSIWnKv0/img.png
+    ![git](asset/git_flow.png)
     
 
 ---
