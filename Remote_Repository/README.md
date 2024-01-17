@@ -10,12 +10,18 @@
 
 # 📌목차
   🟡로컬 저장소에 원격 저장소 연결
+  
     - 원격 저장소 연결 취소
+    
   🟡Remote 저장소 업로드
+  
     - PULL VS Fetch
     - PUSH / PULL & CLONE
+    
   🟡협업을 위한 액세스 권한
+  
   🟡gitignore
+  
   🟡github 활용하기
   
 ---
